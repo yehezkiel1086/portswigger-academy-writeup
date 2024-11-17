@@ -1,7 +1,6 @@
 # Portswigger Web Security Academy Writeup
 
-Portswigger's Web Security Academy solutions writeups <br />
-by: yehezkiel1086
+Portswigger's Web Academy solutions writeup for your reference to learn manual Web Application Penetration Testing
 
 ## Checklists
 
