@@ -5,7 +5,7 @@ Portswigger's Web Academy solutions writeup for your reference to learn manual W
 ## Checklists
 
 - [x] Server-side Vulnerabilities
-- [ ] Path Traversal
+- [x] Path Traversal
 - [ ] API Testing
 - [ ] CSRF
 - [ ] File Upload Vulnerabilities
