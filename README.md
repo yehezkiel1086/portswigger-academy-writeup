@@ -7,7 +7,7 @@ Portswigger's Web Academy solutions writeup for your reference to learn manual W
 - [x] Server-side Vulnerabilities
 - [x] Path Traversal
 - [x] API Pentest
-- [ ] SSRF
+- [x] SSRF
 - [ ] CSRF
 - [ ] File Upload Vulnerabilities
 - [ ] Clickjacking
